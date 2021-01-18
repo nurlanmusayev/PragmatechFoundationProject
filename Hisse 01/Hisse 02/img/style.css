@@ -1,0 +1,43 @@
+body{
+    margin: auto;
+}
+#header{
+    height:650px;
+    background: blue url(../img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
+.header-navbar{
+    display: flex;
+    justify-content: space-between;
+
+}
+.navbar-logo{
+    padding: 65px 110px;
+    display: inline-block;
+    
+
+}
+.navbar-links{
+
+}
+.navbar-links ul{
+    list-style: none;
+    display: flex;
+    margin: 55px 40px;
+
+    padding: 0px;
+    justify-content: space-around;
+
+}
+.navbar-links ul li{
+    padding: 30px;
+    
+
+
+}
+.header-topic{
+
+}
