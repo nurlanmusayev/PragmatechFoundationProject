@@ -1,0 +1,73 @@
+body{
+    margin: auto;
+}
+#header{
+    
+    background:  url('../img/bg.jpg');
+    height: 657px;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+
+
+.header-navbar{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.navbar-logo{
+    margin:35px 0px;
+}
+.logo{
+    padding: 60px;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: white;
+    margin: 30px 30px;
+}
+
+.navbar-links ul li{
+    color:white;
+    list-style: none;
+    margin: 30px 30px;
+    font-weight: 100;
+    
+
+}
+.navbar-links ul{
+    display:flex;
+    justify-content: space-around;
+    
+}
+
+.topic-giris{
+    padding: 100px;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 40px;
+    margin: 0px 0px 0px 510px;
+    /* text-align: center; */
+}
+
+.topic-orta{
+    margin: -150px 0px 0px 555px;
+    color: white;
+    letter-spacing: 10px;
+   
+}
+
+.topic-son{
+    text-align: center;
+    
+}
+.topic-son i{
+    font-size: 20px;    
+    color: white;
+    padding: 0px 5px;
+    
+}
+
+ 
