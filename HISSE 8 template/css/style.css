@@ -1,0 +1,93 @@
+#header{
+    margin: 100px 20px;
+}
+.box-address{
+    height: 250px;
+    /* border: 1px solid black */
+
+}
+.box-mail{
+    height: 250px;
+    /* border: 1px solid black; */
+
+}
+.box-phone{
+    height: 250px;
+    /* border: 1px solid black; */
+}
+.box-address i{
+    font-size: 25px;
+    padding: 25px 160px;
+}
+.box-address-text h4{
+    font-size:20px;
+    margin: 0px 135px;
+}
+.box-address-location h4{
+    font-size: 16px;
+    color: gray;
+    margin: 20px 40px;
+}
+.box-mail i{
+    font-size: 25px;
+    padding: 25px 160px;
+
+}
+.box-mail-text h4{
+    font-size:20px;
+    margin: 0px 145px;
+
+}
+.box-mail-location h4{
+    font-size: 16px;
+    color: gray;
+    margin: 20px 98px;
+}
+.box-phone i{
+    font-size: 25px;
+    padding: 25px 160px;
+}
+.box-phone-text h4{
+    font-size:20px;
+    margin: 0px 145px;
+}
+.box-phone-location h4{
+    font-size: 16px;
+    color: gray;
+    margin: 20px 107px;
+}
+#form_name{
+    margin:-100px 150px;
+}
+#username{
+    width: 95%;
+    height: 34px;
+    background-color:#f4f4f4;
+    
+}
+#email{
+    width:95%;
+    height: 34px;
+    background-color: #f4f4f4;
+    
+}
+#message{
+    width: 95%;
+    height:230px;
+    background-color: #f4f4f4;
+}
+#submit{
+    height: 40px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    transition: all .5s ease;
+    border-radius: 10%;
+}
+#submit:hover{
+    height: 40px;
+    width: 150px;
+    background-color:white;
+    color:black;
+}
+
