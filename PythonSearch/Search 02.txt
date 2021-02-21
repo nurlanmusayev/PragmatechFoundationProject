@@ -1,0 +1,19 @@
+COMPILER:
+Compiler yuksek seviyyede yazilmis bir proqramlasdirma dilini masin koduna ceviren bir komputer proqramidir.
+Insan terefinden oxunaqli olan lakin kompyuter terefinden basa dusulmeyen kodlari masin koduna cevrir.
+Yeni 0 ve 1 lere cevirir.
+
+INTERPRETER:
+Interpreter, h?r bir yuks?k s?viyy?li proqram ifad?sini mas?n koduna daxil ed?n bir komputer
+proqram?d?r. Buraya m?nb? kodu, ?vv?lc?d?n t?rtib edilmis kod v? skriptl?r daxildir. H?m Compiler,
+h?m d? interpreter eyni isi gorurl?r ki, bu da daha yuks?k s?viyy?li proqramlasd?rma dilini mas?n
+koduna cevirir. Bununla birlikd?, bir compiler, proqram isl?m?d?n ?vv?l kodu mas?n koduna cevirir
+(bir exe yarad?r).Interpreter proqram isl?dikd? kodu mas?n koduna cevirir.
+
+
+Esas ferqleri:
+*Compiler,yuksek seviyyeli proqramlasdirma dilinde yazilan kodu proqram ise baslamazdan evvel bir basa
+masin koduna cevirir.Interpreter ise kodu proqram isleyerken bir-bir masin koduna cevirir.
+
+*Compiler kod yazildiqdan sonra ekrana umumi error verir.Interpreter ise hansi setirde sehv varsa 
+hemin setri gosterir.

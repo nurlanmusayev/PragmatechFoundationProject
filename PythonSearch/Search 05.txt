@@ -1,0 +1,6 @@
+---Proqram yazark?n metodlardan istifad? edirik. Hans? hallarda metod istifad? edilm?lidir?---
+
+Proqram yazarken adeten metodlardan istifade edirik.Biz adeten kod yazarken bir seyi cox yerde istifade
+yeni,tekrar edirik.Onlari ise tekrar yazmaq bezen yorucu olur.Bu zaman biz metodlardan istifade edirik.
+Metodu yaziriq ve o metoda bir ad veririk.Muxtelif yerlerde o metodu cagirmaq ucun ise metodu  adini 
+yazmaq kifayet edir.
