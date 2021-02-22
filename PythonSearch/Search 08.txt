@@ -1,0 +1,7 @@
+---  __init__ nedir---
+
+Pythonda __init__ constructor menasini dasiyir.Nece ki biz JS de  constructor hansi funksiyani
+dasiyirsa Pythondada init o funksiyani dasiyir.
+Meselen biz bir class yaratdiqda onun daxilinde bir nece defe istifade edeceyimiz bir funksiya
+yazanda __init__ funksiyasindan istifade edirik.__init__ funksiyasi bir zavod xarakteri dasiyir yeni,
+melumatlari eyni sekilde muxtelif cur cixisa verir.(Daxil olan melumatlardan asili olaraq)

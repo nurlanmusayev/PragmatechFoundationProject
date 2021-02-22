@@ -1,0 +1,28 @@
+---Python type conversion---
+
+2 qrupa bolunur:
+-Implicit type conversion(Qapal? tip konversiya)
+   Bu tip cevirm? avtomatiktir.Proqramc? mudail?si olmadan m?lumatlar? bir novd?n dig?r nov? cevirir.
+   
+-Explicit type conversion(Ac?q tip konversiya)
+   Bu tip cevirm?d? proqramc?lar?n qurasd?rd?g? funksiyalar?n kom?yi il? m?lumat novl?rini t?l?b olunan
+   bir m?lumat tipin? cevirirl?r.
+Bir nec?sin? n?z?r salaq:
+
+ *int()-tam olmayan ?d?d daxil edildikd? h?min ?d?din tam hiss?sini ekrana capa verir.M?s
+	y = int(2.8)
+	print(y)
+	print(type(y))    Burda c?x?s  "2"-? b?rab?r olacaq.
+
+ *float()-h?r hans? bir ?d?d daxil etdikd? h?min ?d?di ".0" s?klind? gost?rir.M?s
+	x = float(1)
+	print(x)
+	print(type(x))   burada c?x?s "1.0"-a b?rab?r olacaq.
+
+ *str()-h?r hans? bir m?lumat novunu bir s?tir? cevirir.
+	kurs= 'Kursun' + str(7) + 'heftesini basa vurduq'
+	print(kurs)--burada c?x?sa "Kursun 7-ci heftesini basa vurduq"  yaz?lacaq
+	
+
+ 
+

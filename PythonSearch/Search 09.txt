@@ -1,0 +1,17 @@
+--- self nedir ---
+
+Self bir funksiyada teyin edici rolunu oynayir.Yeni daxil edilen melumatlari teyin edir.
+Mes:
+class Student():
+    
+    def __init__(self,ad,soyad):
+        self.Name=ad
+        self.Surname=soyad
+   
+    def showStudentData(self):
+        # print(self.Name + ' | ' +self.Surname)
+        return f'{self.Name} | {self.Surname}'
+
+Bele bir funksiya yazdiqda en basda selfden istifade edirik deye novbeti setirlerdede selfden
+istifade edirik.Eger biz bu funksiyada self yerine this yazsaydiq novbei setirlerde this-den
+istifade etmeli idik.Self teyin edici funksiyani dasiyir

@@ -6,10 +6,8 @@ olunur.JS,C++,Java ve s Pythonda daxil olmaqla bir cox obyekt yonumlu proqramlas
 
 OOP nin ustunlukleri:
 
-*OOP, mur?kk?b seyl?ri t?krarlana bil?n, sad? quruluslar kimi modell?sdirir
+*OOP, murekkeb seyleri tekrarlana bilen, sade quruluslar kimi modellesdirir
 
-*Yenid?n istifad? edil? bil?n, OOP obyektl?rind?n proqramlar aras?nda istifad? edil? bil?r
-
-*Sazlamalar? asanlasd?rmaq ucun d?rsl?r umumiyy?tl? onlara aid olan butun m?lumatlar? ozund? c?ml?sdirir
+*Yeniden istifade edile bilen, OOP obyektlerinden proqramlar arasinda istifade edile biler
 
 *Melumatlari teklukesiz sekilde qoruyur
