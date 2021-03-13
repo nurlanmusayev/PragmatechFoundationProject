@@ -1,0 +1,26 @@
+--- Local ve Global deyisenler
+
+2 nov deyisen var Local ve Global deyisenler.
+
+Global deyisenlerin ehate dairesi butun proqramdir.Local deyisenlerin ehate dairesi ise teyin olundugu
+funksiya ile mehdudlasir.
+
+Local deyislere misal:
+
+def cem(x,y):
+cem=x+y
+return cem
+
+print(cem(5,15))
+
+
+
+Global deyisenlere misal:
+
+z = 25
+def func():
+global z
+print(z)
+z=20
+func()
+print(z)

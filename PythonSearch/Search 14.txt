@@ -1,0 +1,19 @@
+--- List metodundan 5 denesinin izahi ---
+
+Biz list yaratmaq ucun m=[] ve ya m=list()-den istifade olunur.Ikiside eyni xususiyyet dasiyir.Lakin 
+yazilis olaraq ferqlidi.Biz listin uzerinde mueyyen deyisiklikler etmek ucun mueyyen metodlardan 
+istifade edirik.Bezi metodlara nezer salaq.
+
+*append()-listin sonuna element elave etmek ucun istifade olunur
+*pop()-listden element silmek ucun istifade olunur.Bu metodda listen silinen elemetleri gormekde mumkundur.
+*index()-bu metodda listdeki elementin index ini orgenmeye imkan verir.Listdeki elementin adini
+yaziriq ve cixisa hemin elementin index ini gosterir.
+*sort()-bu metoddan adeten listde eded yazildiqda istifade olunur.Meselen liste ededler yazdiqda hemin
+edeleri artan ve ya azalan sira ile duzmek ucunde bu metoddan istifade olunur.Mes: n=[3,25,4,7,9,10]
+n.sort(reverse=true) yazdiqda elementleri kiciyden boyuye false yazdiqda ise kiciyden boyuye elementler 
+siralanir.
+*insert()-bu metoddanda liste element daxil etmek ucun istifade olunur.Bu metodda liste daxil etmek 
+istediyimiz elementin adini ve hemin elementi elave etmek istediyimiz index i yaziriq.Mes:
+n=['Bmw','Mercedes','Chevrolet']
+n.insert(2,'Toyota')
+print(n)--yazsaq 2-ci index e Toyota ni daxil  edecek ve netice ['Bmw','Mercedes','Toyota','Chevrolet]-olacaq

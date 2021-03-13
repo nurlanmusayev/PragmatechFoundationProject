@@ -1,0 +1,21 @@
+Pythonda muxtelif nov data tipleri var:
+
+
+*Metn tipi : str
+
+*Say tipi : int , float , complex
+
+*S?ra novleri : list , tuple ,range
+
+*Mapping tipi : dict
+
+*Set tipi : set , frozenset
+
+*Boolean tipi : bool
+
+*Binary tip: bytes, bytearray, memoryview
+
+
+
+
+

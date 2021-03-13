@@ -1,0 +1,13 @@
+Object Oriented Programming:
+
+Obyekt yonumlu proqramlasdirma-sinifler ve obyektler konpensasiyasina esaslanan bir proqramlasdirma
+paradiqmasidir.Istifadesi sade,yeniden istifade edile bilen kod planlari seklinde qurmaq ucun istifade
+olunur.JS,C++,Java ve s Pythonda daxil olmaqla bir cox obyekt yonumlu proqramlasdirma dili var.
+
+OOP nin ustunlukleri:
+
+*OOP, murekkeb seyleri tekrarlana bilen, sade quruluslar kimi modellesdirir
+
+*Yeniden istifade edile bilen, OOP obyektlerinden proqramlar arasinda istifade edile biler
+
+*Melumatlari teklukesiz sekilde qoruyur

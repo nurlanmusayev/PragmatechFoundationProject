@@ -1,0 +1,7 @@
+--- pass nedir ---
+
+kod yazarken biz funksiyalardan ve basqa metodlardan istifade edirik.Ve bu funksiyalar bize lazim
+olduqda biz bu funksiyalari cagiririq.Bu funksiyadan istifade etmedikde ve bu funksiyanin icine
+kod yazmayib run etdikde bu funksiya error verir.Bu funksiyani run etdikde error vermemeyi ucun 
+bu funksiyanin daxiline pass yaziriq.Ve bu funksiyani run etdikde proqram o funksiyani yox imis kimi
+hesab edir ve cixisa hec ne vermir.

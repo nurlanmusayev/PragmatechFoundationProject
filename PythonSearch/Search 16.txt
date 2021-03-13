@@ -1,0 +1,35 @@
+--- Dict metodlarindan 5 eded metodu izah edin ---
+
+
+*values()-bu metoddan siyahidaki elementleri gormek ucu  istifade olunur.Mes:
+car = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+
+x = car.values()
+
+*clear()-bu metoddan siyahidaki elemetleri silmek ucun istifade olunur.Mes:
+car =	{
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+
+car.clear()
+
+print(car) bu sekilde yazib run etdikde siyahinin icini bos gosterecek
+
+*get()-bu metoddan siyahidaki hansi elementin deyerini gormek isteyirikse onun ucun istifade olunur.Mes:
+car = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+
+x = car.get("price","Bele bir melumat daxil edilmeyib")
+
+
+print(x)-eger siyahida bele bir sey yoxdursa bu cur yazilir.Eger biz burda price yerine brand yazsaq
+cixisa bize Ford yazisini verecey
