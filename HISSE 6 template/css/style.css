@@ -1,77 +1,10 @@
-#header{
-    margin: 180px 0px;
+.card{
+    display: inline-block;
+    text-align: center;
+    margin:70px 96px;
 }
 
-.box-one{
-    height: 250px;
-    box-shadow: 0px 0px 10px gray;
-
-}
-.box-two{
-    height: 250px;
-    box-shadow: 0px 0px 10px gray;
-    
-}
-.box-three{
-    height: 250px;
-    box-shadow: 0px 0px 10px gray;
-    
-}
-.box-four{
-    height: 250px;
-    box-shadow: 0px 0px 10px gray;
-}
-
-.box-one i{
-    font-size: 40px;
-    /* margin: 55px 105px; */
-    padding: 45px 100px;
-}
-.box-two i{
-    font-size: 40px;
-    padding:45px 110px ;
-}
-.box-three i{
-    font-size:40px;
-    padding: 45px 105px;
-}
-.box-four i{
-    font-size:40px;
-    padding: 45px 100px;
-}
-.box-one-number h3{
-    font-size: 30px;
-    margin: -20px 104px;
-}
-.box-one-text h4{
-    font-size:17px;
-    color: gray;
-    padding: 10px 64px;
-}
-.box-two-number h3{
-    font-size: 30px;
-    margin: -20px 104px;
-}
-.box-two-text h4{
-    font-size:17px;
-    color: gray;
-    padding: 10px 61px;
-}
-.box-three-number h3{
-    font-size: 30px;
-    margin: -20px 98px;
-}
-.box-three-text h4{
-    font-size:17px;
-    color: gray;
-    padding: 10px 75px;
-}
-.box-four-number h3{
-    font-size: 30px;
-    margin: -20px 100px;
-}
-.box-four-text h4{
-    font-size:17px;
-    color: gray;
-    padding: 10px 62px;
+img{
+    height: 260px;
+    width: 400px;
 }
